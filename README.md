@@ -6,8 +6,7 @@ PyChat is a trainable chatbot built using Python's ChatterBot library. It can be
 - Introduction
 - Installation
 - Usage
-- Training
-- Customization
+- Training and Customization
 
 ## Introduction
 PyChat uses ChatterBot, a machine learning conversational dialog engine, to create a flexible and trainable chatbot.
@@ -48,3 +47,6 @@ conversations:
   - Hi there!
 - - How are you?
   - I'm good, thank you!
+```
+## Training and Customization
+You can also train and customize the bot to your liking!
