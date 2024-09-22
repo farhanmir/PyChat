@@ -14,7 +14,7 @@ PyChat uses ChatterBot, a machine learning conversational dialog engine, to crea
 ## Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/PyChat.git
+    git clone https://github.com/farhanmir/PyChat.git
     cd PyChat
     ```
 
@@ -26,13 +26,13 @@ PyChat uses ChatterBot, a machine learning conversational dialog engine, to crea
 
 3. **Install dependencies**:
     ```bash
-    pip install -r requirements.txt
+    pip install chatterbot
     ```
 
 ## Usage
 Run the chatbot:
 ```bash
-python main.py
+python chat.py
 
 # Training
 
